@@ -1,0 +1,37 @@
+body {
+  padding-top: 50px;
+  
+}
+.main-container {
+  padding: 40px 15px;
+  height: 100%;!important
+}
+.base-box{
+	margin-right: 0;
+    margin-left: 0;
+    background-color: #fff;
+    border-color: #ddd;
+    border-width: 1px;
+    border-radius: 4px 4px 0 0;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+    padding: 45px 15px 15px;
+    margin: 0 -15px 15px;
+    border-style: solid;
+}
+.table-hover>tbody>tr:hover{
+	cursor: pointer;!important
+}
+.text-center{
+	text-align: center;
+}
+.text-right{
+	text-align: right;
+}
+ul li a{
+	cursor: pointer;!important
+}
+form.disabled{
+  opacity: 0.5;
+  pointer-events: none;
+}

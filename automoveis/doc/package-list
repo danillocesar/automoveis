@@ -1,0 +1,7 @@
+br.com.prova.automoveis.config
+br.com.prova.automoveis.controller
+br.com.prova.automoveis.dao
+br.com.prova.automoveis.entity
+br.com.prova.automoveis.service
+br.com.prova.automoveis.service.impl
+br.com.prova.automoveis.utils

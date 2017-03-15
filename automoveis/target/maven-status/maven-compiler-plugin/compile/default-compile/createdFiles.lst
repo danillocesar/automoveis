@@ -1,0 +1,8 @@
+br\com\prova\automoveis\config\AppInitializer.class
+br\com\prova\automoveis\entity\Automoveis.class
+br\com\prova\automoveis\controller\AutomoveisController.class
+br\com\prova\automoveis\config\AppConfig.class
+br\com\prova\automoveis\utils\StringUtils.class
+br\com\prova\automoveis\service\AutomoveisService.class
+br\com\prova\automoveis\dao\AutomoveisDao.class
+br\com\prova\automoveis\service\impl\AutomoveisServiceImpl.class
